@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kaream Badillo</h1>
 <p align="center">
-  Web developer focused on building real MVPs using Web2 and Web3 tools.<br/>
-  Background in finance — learning fast, delivering functional products step by step.
+  🚧 Still learning — but already building real MVPs.
+Web2 + Web3 tools · Finance background · Execution over hype.
 </p>
 
 <br/>
