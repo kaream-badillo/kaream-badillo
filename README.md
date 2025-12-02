@@ -36,5 +36,5 @@
 <h3 align="center">📫 Contact</h3>
 
 <p align="center">
-  <a href="mailto:kaream.badillo@usach.cl">kaream.badillo@usach.cl</a> • 
+  <a href="mailto:kaream.badillo@usach.cl">kaream.badillo@usach.cl</a> 
 </p>
