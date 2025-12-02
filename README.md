@@ -24,7 +24,7 @@
 
 ---
 
-### 🧪 Web3 Tools & Extras (text only for now)
+### 🧪 Web3 Tools & Extras
 
 `Soroban CLI` · `Freighter Wallet` · `Hardhat` · `Foundry` · `Forge` · `Viem` · `Wagmi`  
 `Reflector Oracle` · `Coinbase API` · `OnchainKit` · `XMTP` · `RPC endpoints` · `Blockscout`  
