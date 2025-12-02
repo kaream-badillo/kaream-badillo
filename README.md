@@ -37,5 +37,4 @@
 
 <p align="center">
   <a href="mailto:kaream.badillo@usach.cl">kaream.badillo@usach.cl</a> • 
-  <a href="https://github.com/kaream-badillo" target="_blank">GitHub</a>
 </p>
